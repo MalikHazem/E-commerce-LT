@@ -1,0 +1,35 @@
+<?php
+
+return array(
+    'singular' => 'الصور',
+    'plural' => 'الفواتير',
+    'biller_list' => 'قائمة الصور',
+    'add_biller' => 'إضافة الصور',
+    'no_color' => ' لايوجد صورة',
+    'fields' =>
+        array(
+            'id' => 'الرقم',
+            'name' => 'اسم',
+            'user_name' => 'اسم المستخدم',
+            'company_name' => 'اسم الشركة',
+            'email' => 'البريد إلكتروني',
+            'password' => 'كلمة المرور',
+            'role' => 'دور', 
+            'phone_number' => 'رقم التليفون',
+            'tax_no' => 'لا تفرض ضرائب',
+            'address' => 'العنوان',
+            'city' => 'المدينة',
+            'state' => 'ولاية',
+            'postal_code' => 'الرمز بريدي',
+            'country' => 'الدولة',
+            'points' => 'النقاط',
+            'image' => 'الصورة',
+            'vat_number' => 'ضريبه الشراء',  
+            'status' => 'الحالة', 
+            'action' => 'العمليات', 
+            'is_active' => 'هل نشط',
+            'created_at' => 'تم الانشاء',
+            'updated_at' => 'تم التحديث',
+        ),
+        'print' => 'طباعة',
+);

@@ -1,0 +1,36 @@
+<?php
+
+return array(
+    'singular' => 'عميل',
+    'plural' => 'الناس',
+    'customer_list' => 'قائمة العملاء',
+    'add_customer' => 'أضف العميل',
+    'list' => 'قائمة', 
+    'no_color' => ' لايوجد عميل',
+    'fields' =>
+        array(
+            'id' => 'الرقم',
+            'name' => 'الاسم',
+            'full_name' => 'الاسم الكامل',
+            'user_name' => 'اسم المستخدم',
+            'company_name' => 'اسم الشركة',
+            'email' => 'بريد إلكتروني',
+            'password' => 'كلمة المرور',
+            'role' => 'الدور', 
+            'phone_number' => 'رقم التليفون',
+            'tax_no' => 'لا تفرض ضرائب',
+            'address' => 'العنوان',
+            'city' => 'المدينة',
+            'state' => 'الولاية',
+            'postal_code' => 'رمز بريدي',
+            'country' => 'دولة',
+            'points' => 'النقاط',
+            'deposit' => 'إيداع',
+            'expense' => 'المصروف',  
+            'status' => 'الحالة', 
+            'is_active' => 'نشط',
+            'created_at' => 'تم الانشاء',
+            'updated_at' => 'تم التحديث',
+        ),
+        'print' => 'طباعة',
+);

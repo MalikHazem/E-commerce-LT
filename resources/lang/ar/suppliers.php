@@ -1,0 +1,35 @@
+<?php
+
+return array(
+    'singular' => 'المورد',
+    'plural' => 'الموردين',
+    'supplier_list' => 'لائحة المزودين',
+    'add_supplier' => 'إضافة المورد',
+    'no_color' => ' لا مورد',
+    'fields' =>
+        array(
+            'id' => 'الرقم',
+            'name' => 'الاسم',
+            'user_name' => 'اسم المستخدم',
+            'company_name' => 'اسم الشركة',
+            'email' => 'البريد إلكتروني',
+            'password' => 'كلمة المرور',
+            'role' => 'الدور', 
+            'phone_number' => 'رقم التليفون',
+            'tax_no' => 'لا تفرض ضرائب',
+            'address' => 'العنوان',
+            'city' => 'المدينة',
+            'state' => 'ولاية',
+            'postal_code' => 'الرمز بريدي',
+            'country' => 'الدولة',
+            'points' => 'النقاط',
+            'image' => 'الصورة',
+            'vat_number' => 'ضريبه الشراء',  
+            'status' => 'الحالة', 
+            'action' => 'العمليات', 
+            'is_active' => 'هل نشط',
+            'created_at' => 'تم الانشاء',
+            'updated_at' => 'تم التحديث',
+        ),
+        'print' => 'طباعة',
+);
